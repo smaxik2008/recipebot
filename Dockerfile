@@ -8,4 +8,5 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 
-CMD ["python", "recipe_bot"]
+CMD ["python", "recipe_bot.py"]
+
