@@ -140,7 +140,7 @@ def get_back_to_dish_keyboard(dish_id: str, category: str):
 async def cmd_start(message: types.Message):
     """Обработчик команды /start"""
     welcome_text = (
-        "👨‍🍳 *Welcome to World Recipes Bot!*\n\n"
+        "👨‍🍳 *Welcome to nations of Russia Recipes Bot!*\n\n"
         "I'm your personal chef assistant. Here you can find delicious recipes from different cuisines around the world.\n\n"
         "Explore recipes by categories, learn about ingredients, and cook amazing dishes!"
     )
@@ -327,3 +327,4 @@ if __name__ == "__main__":
         asyncio.run(main())
     except KeyboardInterrupt:
         print("\n👋 Bot stopped")
+
