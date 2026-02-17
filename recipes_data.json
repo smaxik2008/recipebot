@@ -1,0 +1,72 @@
+{
+  "categories": {
+    "appetizers": [
+      {
+        "id": "bruschetta",
+        "name": "Bruschetta",
+        "description": "Italian appetizer with tomatoes and basil"
+      },
+      {
+        "id": "spring_rolls",
+        "name": "Spring Rolls",
+        "description": "Vietnamese fresh rolls with shrimp"
+      },
+      {
+        "id": "guacamole",
+        "name": "Guacamole",
+        "description": "Mexican avocado dip"
+      }
+    ],
+    "main": [
+      {
+        "id": "pasta_carbonara",
+        "name": "Pasta Carbonara",
+        "description": "Classic Italian pasta with eggs and pancetta"
+      },
+      {
+        "id": "sushi_rolls",
+        "name": "Sushi Rolls",
+        "description": "Japanese rolled sushi with fish and rice"
+      },
+      {
+        "id": "beef_burger",
+        "name": "Beef Burger",
+        "description": "American classic burger with beef patty"
+      }
+    ],
+    "desserts": [
+      {
+        "id": "tiramisu",
+        "name": "Tiramisu",
+        "description": "Italian coffee-flavored dessert"
+      },
+      {
+        "id": "cheesecake",
+        "name": "New York Cheesecake",
+        "description": "Creamy American cheesecake"
+      },
+      {
+        "id": "baklava",
+        "name": "Baklava",
+        "description": "Sweet Turkish pastry with nuts"
+      }
+    ]
+  },
+  "recipes": {
+    "bruschetta": {
+      "description": "A classic Italian appetizer consisting of grilled bread rubbed with garlic and topped with tomatoes, fresh basil, and olive oil.",
+      "ingredients": "• Bread slices\n• Ripe tomatoes\n• Fresh basil\n• Garlic\n• Olive oil\n• Salt & pepper",
+      "recipe": "1. Toast bread slices\n2. Rub with garlic\n3. Dice tomatoes and mix with chopped basil\n4. Add olive oil, salt, pepper\n5. Top bread with mixture"
+    },
+    "pasta_carbonara": {
+      "description": "Traditional Roman pasta dish made with eggs, hard cheese, guanciale, and black pepper.",
+      "ingredients": "• Spaghetti 400g\n• Guanciale 150g\n• Eggs 3\n• Pecorino cheese 100g\n• Black pepper",
+      "recipe": "1. Cook pasta al dente\n2. Fry guanciale until crispy\n3. Mix eggs, cheese, and pepper\n4. Combine everything off heat\n5. Serve immediately"
+    },
+    "tiramisu": {
+      "description": "Popular Italian dessert of coffee-soaked ladyfingers layered with mascarpone cream.",
+      "ingredients": "• Ladyfingers\n• Mascarpone cheese\n• Eggs\n• Coffee\n• Cocoa powder\n• Sugar",
+      "recipe": "1. Brew strong coffee\n2. Mix mascarpone with eggs and sugar\n3. Dip ladyfingers in coffee\n4. Layer with cream\n5. Dust with cocoa"
+    }
+  }
+}
